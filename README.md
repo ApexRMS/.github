@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/ApexRMS/.github/blob/main/profile/images/Apex-Logo-w-Subheader-1024x177.png" width="400">
+<img align="right" src="https://github.com/ApexRMS/.github/blob/main/profile/images/Apex-Logo-w-Subheader-1024x177.png" width="300">
 
 # Who We Are
 
