@@ -6,7 +6,7 @@ ApexRMS is a team of ecologists :earth_americas:, data scientists :chart_with_up
 :bulb: Visit our <a href="https://www.apexrms.com" target="_blank">website</a> to learn more about our tools and services, people, and past projects. 
 
 Underlying all our modeling tools is a free software platform called SyncroSim, which provides a modeling framework for rapidly delivering complex suites of ecological models and data to decision makers. 
-:bulb: Visit the <a href="https://www.syncrosim.com" target="_blank">SyncroSim website</a> to learn more.
+💡 Visit the <a href="https://www.syncrosim.com" target="_blank">SyncroSim website</a> to learn more.
 
 ---
 
